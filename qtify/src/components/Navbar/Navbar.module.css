@@ -2,7 +2,7 @@
     width: 100vw;
     height: 74px;
     gap: 0px;
-    opacity: 0px;
+    /* opacity: 0; */
     background-color: var(--color-primary);
     display: flex;
     align-items: center;
