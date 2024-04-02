@@ -23,8 +23,8 @@
     padding: 6px;
 }
 .chip{
-    background-color: var(--color-black);
-    color: white ;
+    background-color: var(--color-black) !important;
+    color: white !important;
 }
 .titleWrapper{
     margin-top:6px;

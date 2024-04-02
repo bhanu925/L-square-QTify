@@ -41,6 +41,7 @@ export default function Card({data ,type}) {
                         <img src={image} alt="song" />
                         <div className={styles.banner}> 
                             <Chip label={`${likes} Likes`}
+                            size='small'
                             className={styles.chip}/>
                         </div>
                         
